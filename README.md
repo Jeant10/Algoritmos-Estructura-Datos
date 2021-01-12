@@ -1,3 +1,2 @@
-# Algoritmos-Estructura-Datos
-
+# Algoritmo
 Prueba de Git y Github
